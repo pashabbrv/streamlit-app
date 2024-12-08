@@ -1,0 +1,5 @@
+[server]
+enableStaticServing = true
+[theme]
+base="light"
+backgroundColor = "rgb(128, 166, 255)"
